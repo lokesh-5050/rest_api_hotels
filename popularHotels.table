@@ -1,0 +1,241 @@
+INSERT INTO popularhotels(name , about, images) values("TAJ LAKE PALACE","This 18th century historical palace, situated in the magnificent City of Udaipur, is undeniably one of the best hotels in India. This white marble marvel is a stunning example of royal grandeur with 65 luxurious rooms and 18 grand suites." , 
+'[
+{"url":"https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Lake_Palace_Udaipur/images/images2021/Hero-Picture_mobile.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg"},
+{"url":"https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Lake_Palace_Udaipur/images/images2021/TLP_JalTarang_4756%20Grand-Royal-Suite.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg"},
+{"url":"https://www.tajhotels.com/content/dam/luxury/hotels/Taj_Lake_Palace_Udaipur/images/images2021/TLP_ShambhuPrakash_grand-Presedential-Suite.jpg/jcr:content/renditions/cq5dam.web.756.756.jpeg"},]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("THE OBEROI UDAIVILAS","A sparkling jewel in the charming city of lakes, Oberoi Udaivilas offers guests a top-notch experience. The Oberoi group is known for its outstanding hospitality with its core philosophy being “the guest is everything”. Every single room of this luxurious hotel reflects elegance and is designed to bestow the utmost comfort. The glittering views of the City Palace and Jag mandir from this lakeside hotel is an absolute treat to the eyes." , 
+'[
+{"url":"https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-udaivilas-udaipur/room-and-suites/premier-room-with-pool-view/detail/udaivilas---premier-room-with-pool-view-1.jpg?w=724&hash=8e066ea2a8fdc4aee5c1c9d85d17adaf"},
+{"url":"https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-udaivilas-udaipur/room-and-suites/kohinoor-suite/detail/udaivilas---kohinoor.jpg?w=724&extension=webp&hash=dde9b649f22d1352b85165ac397a7334"},
+{"url":"https://www.oberoihotels.com/-/media/oberoi-hotels/website-images/the-oberoi-udaivilas-udaipur/room-and-suites/luxury-suite/detail/udaivilas---luxury-suite-drawing-room.jpg?w=724&extension=webp&hash=d75c0b3ed1c4e68f06a2921174374c69"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("THE TAJ MAHAL PALACE","The legendary Taj Mahal Palace situated in Mumbai is acclaimed as India’s first luxurious hotel. This flagship hotel of the Taj group lets you witness a fascinating blend of old-world charm and modern facilities. This architectural wonder also offers spectacular views of the Arabian sea and the Gateway of India. The meticulously planned luxurious rooms with lavish artistic interiors make it one of the best hotels in India." , 
+'[
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/The-Taj-Mahal-Palace-1.jpg"},
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/The-Taj-Mahal-Palace-2.jpg"},
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/The-Taj-Mahal-Palace-3.jpg"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("SOHO HOUSE MUMBAI","Discover the city of dreams Mumbai in superior luxury at the SOHO House. With the views of the Arabian sea on one side and the glamorous city on the other, the hotel showcases the true essence of Mumbai. The sunset views from the rooftop pool in this multi-storey building is a fascinating experience. Even the in-house gym offers splendid vistas of the sea which is revelled by the guests." , 
+'[
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/Soho-House-Mumbai-1.jpg"},
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/Soho-House-Mumbai-2.jpg"},
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/Soho-House-Mumbai-3.jpg"}
+]'
+);
+
+
+INSERT INTO popularhotels(name , about, images) values("AMAN-I-KHAS","A wilderness camp on the fringes of Ranthambore national park in Rajasthan, Aman-i-Khas promises a unique experience for the guests. For all those who desire a quick escape from the bustle of the city, this is the perfect destination. It lies amidst a serene landscape and can be counted as one of the best hotels in India. They have 10 luxurious tents that are crafted to offer utmost privacy. For dining, the tents are distinct where culinary masterpieces from fresh organic kitchen garden ingredients are served. A separate spa tent and an intimate pool area here will let you discover your inner bliss." , 
+'[
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/Aman-i-Kas-1.jpg"},
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/Aman-i-Kas-2.jpg"},
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/Aman-i-Kas-3.jpg"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("SUJAN SHER BAGH","Sujan Sher Bagh is yet another tented accommodation in Rajasthan that takes you a step closer to nature and wildlife. It is nestled at the fringes of Ranthambore National Park, which is the finest location to spot tigers in India. Experience the majestic wildlife like never before with guided safari tour here. With more unique experiences like Jungle cooking classes and special spa treatments, this is the perfect place to unwind.
+
+The resort has 10 luxurious tents and 2 splendid suites that offer a view of untamed nature. Every tent is hand-stitched and adorned with luxurious furniture that radiates pure elegance. Just like other Sujan ventures, this resort also promotes sustainable tourism brilliantly." , 
+'[
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/Sujan-Sher-Bagh-1.jpg"},
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/Sujan-Sher-Bagh-2.jpg"},
+{"url":"https://www.theasiacollective.com/wp-content/uploads/2020/03/Sujan-Sher-Bagh-3.jpg"}
+]'
+);
+
+
+INSERT INTO popularhotels(name , about, images) values("Marriott Suites Pune","Marriott Suites Pune is a 5-star luxury all-suite pet-friendly hotel located in the upscale Koregaon Park-the heart of the nightlife and entertainment district in Pune, India. 5.5 km from Pune International Airport, 5.2 km from Phoenix Market City Mall, 15 min away from IT hubs such as EON IT Park, Business Bay, Commerce zone, and Magarpatta Cybercity, and close to many local attractions like Osho Ashram, Aga Khan Palace and the popular Shaniwar Wada. Marriott Suites Pune offers the largest room size in the city. Every suite features an expansive living room, equipped kitchenette, and dining area. Our world-class amenities include an outdoor pool, a 24-hr fitness center, a Japanese-inspired spa, a tennis and squash court, a kid’s play area, a game room, and a business center. Dining options include Senses, an all-day multi-cuisine restaurant, and Sorriso, which serves authentic Italian delicacies. 24-hour room service is available." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/e5/7d/c8/exterior.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/c8/dc/28/lobby.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/c8/df/e1/marriott-suites-pune.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("The Leela Palace Bengaluru","The Leela Palace Bengaluru has been ranked 10 among the top ten city hotel’s in Asia by Travel & Leisure Reader’s choice award 2019. The hotel is nestled amidst seven acres of lush gardens and a sparkling lagoon, built in an art-deco form drawing inspiration from the architectural style of the Royal Palace of Mysore. Its copper domes, arches and ornate ceilings reflect the grandeur of palaces of a bygone era. From the hand-woven carpets to the priceless brass antiques, from the hand-picked crystal to the finest bone china, everything is the best the world has to offer. Situated on Old Airport Road, it is in close proximity to the Embassy Golf Links and convenient to Whitefield & Electronic City business districts and an easy stroll from the KGA golf course. The Leela Palace Bengaluru has all the attributes of comfort, technology and design associated with one of the leading hotels of the world. State-of-the-art facilities and its regal ambiance combine to provide outstanding service that is synonymous with The Leela Group. 5 award winning restaurants including a bar." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ff/ee/27/exterior-day.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c5/f4/e4/the-leela-palace-bengaluru.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/c5/f4/de/the-leela-palace-bengaluru.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("Suryagarh Jaisalmer","Fashionably designed with luxurious interiors, the sixty two room hotel is proof that contradictions make for a wonderful hospitality experience. This unique juxtaposition of the modern with the medieval is what makes a stay memorable." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/4b/3c/39/main-porch.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/8e/df/f6/the-infinity-pool-at.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/8e/e0/18/the-thar-haveli-room.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("The Oterra","Welcome to the The Oterra Bengaluru Electronics City Located strategically in the technology hub of the city, The Oterra Bengaluru offers sophistication, connectivity and comfort to all our guests. Our private transfer service will bring you safely from the Kempegowda International Airport to our hotel, that is located next to leading companies like Infosys, Wipro, TCS, HCL, 3M, Tech Mahindra, Siemens and HP to name a few. Experience our efficient service and bask in luxury from the time you arrive, through the hotel's multiple restaurants and bars." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/7c/8a/6a/twin-bed.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/22/b1/28/poolside.jpg?w=600&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/08/1e/6a/the-oterra.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("Sheraton Grand Palace Indore","Sheraton Grand Palace is Indore’s finest Vegetarian five star Hotel with state-of-the-art-technology, operated and managed to the highest standards set by Marriott International in catering in all over India & abroad. The hotel is located on 8.62 acres, with its beautiful gardens & Banquet halls, its exquisite Graeco-Roman architecture and splendorous decor. Sheraton Grand Palace Indore sets the stage for an experience that is bound to be truly memorable – be it a wedding, a symposium, conference, training module or even a board meeting. Sheraton Grand Palace is located Near Omaxe city-1, Mayakhedi, Bypass road, with easy proximity and access to the business and commercial centers of the city, 15 KM from Railway Station, 24 KM from Airport, 43 KM away from the Industrial District of Pithampur and 28 KM from Dewas Industrial Area." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ac/be/67/plunge.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ac/be/0f/araana-interior.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/6c/a0/b8/royal-suite-bathroom.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("La Marvella, Bengaluru","La Marvella, Bengaluru A business hotel with 5 star amenities is conveniently located in south Bangalore. Located 38 km from Bangalore International Airport, 6 Km from railway station our hotel La Marvella, Bengaluru is in close proximity of key commercial area namely Bannerghatta, BTM layout, JP Nagar, Kormangla, MG Road, Lalbagh, IIM, BasavanGudi, Banashankari, Mysore road, Bidadi industrial area, Electronic city, Basavangudi Aquatic Centre, Art Of Living, Bommasandra industrial area, etc. This makes the hotel a perfect choice for business and leisure traveller. The hotel has 102 rooms, 2 restaurants, one bar, 4 Indoor Banquet Halls, a club floor with a dedicated lounge, a rooftop swimming pool, gymnasium and a spa. It offers an unprecedented and innovative experience that takes luxury hospitality to new levels and will appeal to the sensibilities of the world traveller. Located at Superb location La Marvella Young energetic team would make your stay memorable." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ff/c2/06/facade.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ff/c2/10/room.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/ff/c2/0b/restaurant.jpg?w=1100&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("Hotel Lakend","Hotel Lakend is located on the fatehsagar lake shore with beautiful views of the lake from the rooms, the infinity pool and the sprawling lawns. The hotel is a perfect destination for a family holidays, a honeymoon, a wedding and conferences. The hotel features four food and beverage outlets with multiple cuisines." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/e8/ae/0d/banquet-pre-function.jpg?w=800&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/bc/26/c5/hotel-lakend.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a6/78/8d/pool--v16665407.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("The Lalit New Delhi","The LaLiT Hotels in Delhi, one of the best luxury hotels in Delhi India, stands tall right in the middle of city’s premier business and commercial district – Connaught Place. Being the central luxury business hotel in Delhi, it is located right next to lively shopping centres, office complexes and colourful streets, the hotel is 24 kms from the international airport and just minutes away from government offices, cultural centres and international trade fairgrounds. With the largest room sizes amongst all luxury hotels Delhi, The LaLiT New Delhi offers a total of 461 five star hotel rooms. The bedrooms are all well tailored to the needs of both a business traveler as well as a vacationer and accompanied by hotels modern amenities and elegant decor. Guests at our luxury hotels, have an option of choosing from a Deluxe Rooms, LaLiT Luxury Rooms and the suites. Serving cuisines from both the world of east and west, The LaLiT, hotels New Delhi offers four fine dining restaurants serving food to suit all types of palate. For those enjoying traditional Oriental food, The Woks serve authentic Oriental food while The Grill serves European food. And if guests want to taste food prepared in the traditional Indian way, we invite them to try our Indian cuisine at Baluchi while our multi-cuisine restaurant and Bar – 24/7 is the best place for guests who enjoy food while also interacting with chefs of the restaurant. At 24/7 guests have an option of choosing variety of food at the buffet or being selective through the elaborate a-la-carte menu. At The LaLiT, luxury hotel Delhi, guests can be at comfort both at work as well as leisure. Ideal for all types of events, The LaLiT New Delhi offers a total of six banquet hall. Guests can organize all types of events with us - from small top-notch corporate events to private party events and from big conference meeting to huge wedding ceremony. Enough to accommodate upto 800 people, hotels' banquet facilities are added advantage amongst all hotels in Delhi. So whether the event is corporate or if it is a planning a wedding at hotels." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b5/60/7b/club-twin-room.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b5/60/73/premier-twin-room.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/b5/60/61/deluxe-room-king.jpg?w=800&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("Hotel Novotel New Delhi Aerocity","Novotel New Delhi Aerocity is an excellent choice for travellers visiting New Delhi, offering a family-friendly environment alongside many helpful amenities designed to enhance your stay.
+
+Nearby landmarks such as Mangal Mahadev Birla Kanan (1.4 mi) and Manekshaw Centre, Delhi Cantt. (2.3 mi) make Novotel New Delhi Aerocity a great place to stay when visiting New Delhi.
+
+The rooms offer a flat screen TV, a minibar, and air conditioning, and getting online is possible, as free wifi is available, allowing you to rest and refresh with ease.
+
+Novotel New Delhi Aerocity features a concierge and room service. In addition, as a valued Novotel New Delhi Aerocity guest, you can enjoy a pool and free breakfast that are available on-site. Guests arriving by vehicle have access to free parking.
+
+While in New Delhi be sure to experience nearby barbeque restaurants such as The Great Kabab Factory, Barbeque Nation, or Tikka Town.
+
+Looking to explore? Then look no further than Flagstaff Tower (1.0 mi), which is a popular New Delhi attraction – and it is conveniently located within walking distance of the hotel.
+
+Enjoy your stay in New Delhi!" , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/3a/1d/dd/hotel-novotel-new-delhi.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/78/a5/e1/family.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/78/a5/d1/guest-room.jpg?w=1100&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("Sofitel Mumbai BKC","A glistening beacon of sophistication, grandeur and French art de recevoir, Sofitel Mumbai BKC exudes modern luxe, offering unrivaled facilities and a premium address. French culture, design and gastronomy blend artistically with rich Indian tradition in Neo Art Nouveau style offering multifaceted experiences in cuisine, entertainment and relaxation - from flexible, cutting edge meeting space and Club Millesime to the enchanting So SPA and pool side facilities. Where buoyant business meets elegant lifestyle and where Life is Magnifique. Strategically located in the geographical heart of Mumbai and the new financial and commercial district of the city - Bandra Kurla Complex (BKC), the hotel offers easy access to both the international and domestic terminals of Mumbai’s Chhatrapati International Airport, to South and North Mumbai, the Eastern and Western Express Highways and most of the main tourist attractions in the city.
+
+Enjoy your stay in New Delhi!" , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/e6/bd/06/exterior.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/ea/82/8e/exterior-view.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/e2/c2/c9/barlounge.jpg?w=1100&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("The Suryaa New Delhi","The Suryaa, New Delhi with its host of facilities and services is designed to meet your business and personal needs. Our 244 well-appointed guestrooms and suites are elegantly designed and the delectable dining options, technologically advanced conferencing features, exquisite recreation facilities as well as warm and attentive service are just some of the things that make The Suryaa, New Delhi a preferred destination.The hotel is in close proximity to the world-renowned Apollo Hospital & the Escorts Heart Institute. A Shopping arcade and other recreation facilities are within walking distance from the hotel. Nearest Metro station is Sukhdev Vihar Metro station
+
+Enjoy your stay in New Delhi!" , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/4a/ab/dc/the-suryaa-new-delhi.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/27/70/3f/club-premier.jpg?w=600&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/cf/af/b9/ssence--v12274925.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+
+INSERT INTO popularhotels(name , about, images) values("Sahara Star Hotel","Made by man's greatest strength...Imagination, Sahara Star is yet another masterpiece from Sahara India Pariwar. The hotel's magnificence blended with Indian mysticism epitomizes hospitality & stands deeply rooted in Indian traditions & culture.
+
+Creating a paradigm shift, Sahara Star showcases the world largest pillar less clear-to-sky dome, an architectural landmark blending hospitality and entertainment, offering one of the most individualized hospitality experiences. Complemented by India's finest 4,000 sq. ft. Marine Aquarium, abode to the world’s only Private Dining Room inside a marine aquarium with exquisite marine lives, the Hotel weaves a dining facility amidst these aquatic wonders. The world's first 'hemisphere' three compound-curved custom designed all glass panoramic elevators rises in the exotic 55,000 sq. ft. tropical lagoon, Hotel Sahara Star features 348 well-appointed luxurious guestrooms with 25 elegant suites.
+
+In an ambience steeped in rich culture and superlative luxury, Sahara Sapphire, Mumbai’s largest pillar-less multi-purpose event hall, gives an opportunity for every host to announce their event to the world. Hotel Sahara Star boasts of its largest hall in the city with a floor plate of 55,000 sq.ft, an impressive ceiling height of 25ft. Besides, reigned by contemporary design, Jade Ballroom embraces a sombre play of elegance. With a capacity to host 1000 guests in its abundant space of 10,000 sq.ft. Jade’s pillar-less multi-function area with a ceiling height of 18 feet is a captivating sight for every guest. The exclusive, spacious & elegantly designed Business Centre, catering to all your corporate needs, makes it the perfect and the most sought-after business destination." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/a7/a5/e8/img-20190524-111923-01.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/48/2f/26/sahara-star-hotel.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/7c/f7/5e/relaxing-lagoon-ambience.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+
+INSERT INTO popularhotels(name , about, images) values("JW Marriott Mumbai Juhu","JW Marriott Mumbai Juhu is situated on the sands of Mumbai, India's popular Juhu Beach with a breathtaking view of the Arabian Sea. Our 5-star accommodations are located in the heart of the suburbs, enjoying close proximity to the commercial and industrial estates in North Mumbai as well as the tourist hub of South Mumbai. A preferred choice among luxury hotels in Mumbai, we provide the perfect destination to both business & leisure travelers. We are equipped with a state-of-the-art Business Centre, Conference facilities, indoor & outdoor Banquet spaces and the award-winning Quan Spa. JW Marriott Mumbai Juhu also houses some of the city’s most renowned restaurants & lounges offering a host of various authentic culinary experiences. Our hotel is situated only 20 minutes away from both the domestic & international airports." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/41/73/02/presidential-suite.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/41/72/f0/presidential-suite-living.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/41/72/b9/royal-beach-suite-living.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+
+INSERT INTO popularhotels(name , about, images) values("The Zuri White Sands Goa Resort & Casino","See why so many travellers make The Zuri White Sands Goa Resort & Casino their resort of choice when visiting Varca. Providing an ideal mix of value, comfort and convenience, it offers a luxury setting with an array of amenities designed for travellers like you.
+
+Free wifi is offered to guests, and rooms at The Zuri White Sands Goa Resort & Casino offer a flat screen TV, a refrigerator, and a minibar.
+
+During your stay, take advantage of some of the amenities offered, including a concierge and room service. Guests of The Zuri White Sands Goa Resort & Casino are also welcome to enjoy a pool and breakfast, located on site. For travellers arriving by car, free parking is available.
+
+While in Varca, you may want to check out some of the restaurants that are a short walk away from The Zuri White Sands Goa Hotel, including Zeons Restaurant & Bar (0.3 mi), Garden Court (0.2 mi), and Jolinn (1.1 mi).
+
+At The Zuri White Sands Goa Resort & Casino, your comfort and satisfaction come first, and they look forward to welcoming you to Varca." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1e/05/93/44/hotel-ariel-view.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3a/64/5e/the-zuri-white-sands.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/3a/64/54/the-zuri-white-sands.jpg?w=1100&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("Hilton Mumbai International Airport","Located five minutes from the international terminal and 15 minutes from the domestic terminal, Hilton Mumbai International Airport is situated at one of the most convenient locations near Mumbai airport. Combining the style of a 19th century summer palace and aspects of a stately home with modern facilities and upscale amenities, Hilton Mumbai International Airport is the hotel of choice for business travelers. The hotel is situated near the prime business districts of Andheri, Bandra Kurla Complex, Powai and the Bombay Exhibition Center. Shopping, entertainment and dining at the Oberoi Mall-Goregaon, Phoenix market city are also nearby. This Mumbai hotel offers a premium destination for business meetings and events. Choose from 171 guest rooms and suites, as well as six flexible meeting spaces, including a ballroom and two grand halls. The hotel also offers a unique dining experience, contemporary spa and comprehensive fitness center. Each spacious guest room offers excellent amenities to meet the needs of all types of travelers. Upgrade to an Executive Room for private check-in and check-out, complimentary breakfast and evening cocktails in the private lounge. Savor delicious Indian and Chinese cuisine in the sumptuous Mumbai restaurants -The Brasserie and Imperial China. Relax by the tropical setting of the outdoor pool and sip drinks from the Garden Bar or enjoy live music next to an open fireplace at the Lounge Bar." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/68/87/8d/meeting-room.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/68/88/c1/business-center.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/68/88/bb/guest-room.jpg?w=1100&h=-1&s=1"}
+]'
+);
+
+
+INSERT INTO popularhotels(name , about, images) values("Fariyas Resort Lonavala","A slice of paradise awaits you at 1500 feet above sea level. Nestled amidst a lush green backdrop, The Fariyas Resort Lonavala provides an ideal getaway for a perfect rejuvenation. Fariyas is synonymous for superior service culture and modern rooms and facilities matching the needs of its discerning clientele. Our refined physical product and willingness of our employees to pamper our guest on a daily basis is what makes us humble. We provide innovative food and beverages concepts with modern meeting and banquet facilities. The Wild Waters – Water Park entertains both young and the young at heart. The exhilarating rides, a sunken bar and much more activities are fun filled experiences for the whole family. The Sana Spa and Beauty Salon sets the mood for rejuvenation at this vibrant resort." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/7e/2a/56/fariyas-resort-lonavala.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/aa/8e/f8/fariyas-resort-lonavala.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/aa/8e/e7/fariyas-resort-lonavala.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+
+INSERT INTO popularhotels(name , about, images) values("Novotel Visakhapatnam Varun Beach","Placed right on the beach stands a model of architectural brilliance and an epitome of hospitality, Novotel Visakhapatnam Varun Beach, the first and only 5-star deluxe hotel of the city and the entire state of Andhra Pradesh. With major accolades of the hospitality world added to its name like the Best New Hotel of the Year 2011", "Best Hotel Design in Project Stage -PAN India 2011", "Best Business Hotel in Visakhapatnam etc., Novotel Visakhapatnam Varun Beach is the golden pendant on the diamond necklace, i.E., The VUDA marine drive. Be it a wedding/conference/exhibition, our banquet halls spread over 56000 sft, are crafted beautifully to give you the best of facilities and ambience. NVVB holds the credential of having the largest pillar-less banquet hall by any hotel in the state, called the V-Convention, which can accommodate up to 1250 guests. The whole banquet area of the hotel can be adjusted into 12 banquet halls, each to its own speciality. The Gen-Next Eureka room with customized modular furniture for power meetings has become the most sought after meeting venue in and around the city. With a dedicated entry to these banquets, they are spaced out to hold gatherings as much as 4000 there by making them one of, in the entire state. Our dining solutions have left our guests drooling from day one." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/97/13/5a/novotel-visakhapatnam.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/79/af/64/exterior-view.jpg?w=1100&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/74/61/1e/guest-room.jpg?w=1100&h=-1&s=1"}
+]'
+);
+
+INSERT INTO popularhotels(name , about, images) values("Taj Hotel & Convention Centre, Agra","An upscale hotel on 4.5 acres and within walking distance of the Taj Mahal, one of the world’s most iconic landmarks. You’ll also be close to the Agra Fort, Keoladeo National Park and the historic sites of Sikandra and Fatehpur Sikri. You can explore the hotel’s amenities, which include a refreshing rooftop infinity pool overlooking the Taj Mahal, a rejuvenating spa, a well-equipped fitness center and a well-appointed business center. Relax in a stylish room or suite, each outfitted with free Wi-Fi. Sample traditional Indian cuisine at Daawat-e-Nawab, global-inspired dishes at our all-day dining restaurant, Palato, and trendy food and beverage selections at our poolside sky lounge, Infini, overlooking the Taj Mahal. With more than 3,700 square meters of versatile event spaces, including one of the biggest banquet halls in northern India that’s able to cater to up to 2,000 guests, it makes an ideal hotel for a perfect celebration." , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3d/3f/8b/infini-the-sky-lounge.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3d/3e/9c/deluxe-suite-living-room.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3d/3e/5e/deluxe-suite-bathroom.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+
+INSERT INTO popularhotels(name , about, images) values("The Roseate New Delhi","The Roseate, New Delhi is a an urban oasis that narrates the visual language of nature seamlessly weaved with splendid architecture, and reminisces of the rich heritage of Delhi with eight acres of luscious greens and tranquil water-bodies crisscrossing the length of this luxury resort in Delhi. A quintessential escape from the bustling city life, The Roseate embodies a new spectrum of hospitality, yet only a few minutes’ drive from the airport, corporate hubs, embassies, shopping malls and markets in Delhi and Gurgaon, incumbent of the best resorts in Delhi. This luxury resort in New Delhi houses elegantly furnished and commodious rooms & suites, an exquisite spectrum of food and beverage selections across its dining concepts. The resort’s well-appointed rooms, banquet spaces and picturesque outdoor settings offer a variety of options for meetings, conferences and events. The unique architecture and green landscape make the resort a perfect location for weddings and memorable private events" , 
+'[
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/74/57/6c/chi-ni-oriental-specialty.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/07/10/62/kiyan-world-cuisine-restaurant.jpg?w=1200&h=-1&s=1"},
+{"url":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/07/8d/6b/premium-pool-view-room.jpg?w=1200&h=-1&s=1"}
+]'
+);
+
+
+
+
+
