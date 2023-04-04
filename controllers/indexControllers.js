@@ -46,4 +46,20 @@ exports.handleHotelsByCity = async (req, res, next) => {
   } catch (error) {
     res.json(error);
   }
-} 
+}
+
+exports.allPopularHotels = async (req, res, next) => {
+  try {
+
+    console.log("/allPopularHotels");
+    let sql = `SELECT * FROM popularhotels`;
+    connection.query(sql, (err, row) => {
+      if (err) throw err;
+      res.json(row.length);
+    });
+
+
+  } catch (error) {
+
+  }
+}
