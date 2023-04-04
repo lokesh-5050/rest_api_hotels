@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-const { allHotels ,popularHotels } = require("../controllers/indexControllers");
+const { allHotels, popularHotels, handlePopularDataPage } = require("../controllers/indexControllers");
 
 /* GET: Route to get all hotels */
 router.get("/hotels", allHotels);

@@ -6,6 +6,8 @@ const session = require("express-session");
 
 var cookieParser = require("cookie-parser");
 
+var bodyParser = require('body-parser');
+
 app.use(
   require("cors")({ credentials: true, origin: process.env.DOMAIN || 8080 })
 );
@@ -18,6 +20,8 @@ const indexRoutes = require("./routes/indexRoutes");
 app.use(
   session({ resave: true, saveUninitialized: false, secret: "sdfvgbhnjk756" })
 );
+app.use(bodyParser.urlencoded())
+app.use(bodyParser.urlencoded({ extended: true }))
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
