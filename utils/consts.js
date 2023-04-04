@@ -1,0 +1,1 @@
+exports.findAll = "SELECT * FROM "

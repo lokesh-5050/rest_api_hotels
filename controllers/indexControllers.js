@@ -1,4 +1,5 @@
 const connection = require("../models/databaseConfig");
+const { findAll } = require("../utils/consts");
 
 exports.allHotels = async (req, res, next) => {
   try {
@@ -27,5 +28,22 @@ exports.popularHotels = async (req, res, next) => {
     });
   } catch (error) {
     console.log(error);
+  }
+};
+
+exports.handleHotelsByCity = async (req, res, next) => {
+  try {
+    let city = req.query.city || "Bhopal";
+    console.log({ city: city });
+    let sql = `SELECT * FROM popularhotels`;
+
+    connection.query(sql, ((err, data) => {
+      if (err) res.json(err);
+      let filteredData = data.filter((elem) => elem.city == city ? elem : null);
+      console.log(filteredData);
+      res.json(filteredData);
+    }))
+  } catch (error) {
+    res.json(error);
   }
 }
