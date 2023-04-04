@@ -1,1 +1,0 @@
-exports.findAll = "SELECT * FROM "
