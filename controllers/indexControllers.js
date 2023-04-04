@@ -1,5 +1,4 @@
 const connection = require("../models/databaseConfig");
-const { findAll } = require("../utils/consts");
 
 exports.allHotels = async (req, res, next) => {
   try {
