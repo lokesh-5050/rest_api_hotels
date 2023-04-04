@@ -34,16 +34,17 @@ exports.popularHotels = async (req, res, next) => {
 exports.handleHotelsByCity = async (req, res, next) => {
   try {
     let city = req.query.city || "Bhopal";
-    console.log({ city: city });
+    let FirstLetterCapital = city.charAt(0).toUpperCase() + city.slice(1)
+    console.log({ city: FirstLetterCapital, });
     let sql = `SELECT * FROM popularhotels`;
 
     connection.query(sql, ((err, data) => {
       if (err) res.json(err);
-      let filteredData = data.filter((elem) => elem.city == city ? elem : null);
-      console.log(filteredData);
+      let filteredData = data.filter((elem) => elem.city == FirstLetterCapital ? elem : null);
+      // console.log(filteredData);
       res.json(filteredData);
     }))
   } catch (error) {
     res.json(error);
   }
-}
+} 
